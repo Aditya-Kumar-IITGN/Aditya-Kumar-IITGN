@@ -8,7 +8,7 @@
   </p>
 
   <a href="https://github.com/Aditya-Kumar-IITGN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&height=45&lines=Incoming+SDE+%40+Eternal+(Joining+June+2027);B.Tech+Computer+Science+%26+Engineering+%40+IIT+Gandhinagar+'27;Financial+Quant+Intern+%40+Futures+First+(Summer+2026)" width="750" height="45" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&height=45&lines=Incoming+SDE+%40+Eternal+(Joining+June+2027);B.Tech+Computer+Science+and+Engineering+%40+IIT+Gandhinagar+'27;Financial+Quant+Intern+%40+Futures+First+(Summer+2026)" width="750" height="45" alt="Typing SVG" />
   </a>
 </div>
 
@@ -63,23 +63,23 @@
 
 ### 📊 Coding Profiles & GitHub Stats
 
+<!-- Row 1: Full-Width Profile Summary & Contribution Area Graph -->
 <div align="center">
-  <!-- GitHub Stats & Streak Cards -->
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar-IITGN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="Aditya's GitHub Stats" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Kumar-IITGN&theme=tokyonight&hide_border=true&background=1a1b27" alt="Aditya's GitHub Streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Kumar-IITGN&theme=tokyonight" alt="GitHub Profile Details & Activity Graph" />
 </div>
 
+<!-- Row 2: Stats, Streak & Language Breakdown -->
 <div align="center">
-  <!-- Top Languages & LeetCode Card -->
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar-IITGN&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Kumar-IITGN&theme=tokyonight" alt="Aditya's GitHub Stats" />
+  <img height="175" src="https://streak-stats.demolab.com?user=Aditya-Kumar-IITGN&theme=tokyonight&hide_border=true&background=1a1b27" alt="Aditya's GitHub Streak" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Kumar-IITGN&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<!-- Row 3: Live LeetCode Card -->
+<div align="center">
   <a href="https://leetcode.com/u/adityakumarbhanu15062003/">
     <img height="185" src="https://leetcard.jacoblin.cool/adityakumarbhanu15062003?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
-</div>
-
-<!-- Full Width Commit Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumar-IITGN&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" width="98%" alt="Activity Graph" />
 </div>
 
 ---
